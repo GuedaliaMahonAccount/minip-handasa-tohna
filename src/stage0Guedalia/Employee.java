@@ -1,4 +1,4 @@
-package stage0Guedalia;
+package stage0;
 
 public abstract class Employee {
     private String firstName;

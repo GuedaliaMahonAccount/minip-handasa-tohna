@@ -1,4 +1,4 @@
-package stage0Guedalia;
+package stage0;
 
 public class Payroll {
     public static void main(String[] args) {

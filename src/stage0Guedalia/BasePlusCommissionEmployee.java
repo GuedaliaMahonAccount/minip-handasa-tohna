@@ -1,4 +1,4 @@
-package stage0Guedalia;
+package stage0;
 
 public class BasePlusCommissionEmployee extends CommissionEmployee {
     private float baseSalary;

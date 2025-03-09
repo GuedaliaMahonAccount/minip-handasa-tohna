@@ -1,4 +1,4 @@
-package stage0Guedalia;
+package stage0;
 
 public class HourlyEmployee extends Employee {
     private int hours;
