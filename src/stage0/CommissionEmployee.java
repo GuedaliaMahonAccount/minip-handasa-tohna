@@ -1,3 +1,6 @@
+package stage0;
+
+
 import java.text.DecimalFormat;
 
 /**

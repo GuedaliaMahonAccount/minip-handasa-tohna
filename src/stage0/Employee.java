@@ -1,3 +1,5 @@
+package stage0;
+
 /**
  * Abstract class representing an employee.
  * <p>

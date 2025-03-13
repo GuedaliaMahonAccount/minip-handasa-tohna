@@ -1,3 +1,4 @@
+package stage0;
 
 /**
  * Payroll class to test and display employee information and earnings.
